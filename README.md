@@ -18,8 +18,8 @@
 ## What I'm building
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 **[NoteKit](https://notekit.net)**
 
@@ -27,8 +27,8 @@ AI study app with live subscriptions: notes, flashcards and exam prep.
 
 `TypeScript` `Next.js` `AI`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **[Nuqra](https://nuqra.org)**
 
@@ -36,10 +36,10 @@ SaaS product. Its payments and billing module is open source as [QPay](https://g
 
 `TypeScript` `Next.js` `Postgres`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[Action Plan Barbershop](https://github.com/HXSmc/plan-saloon)**
 
@@ -47,8 +47,8 @@ Bilingual EN/AR booking site with an admin dashboard.
 
 `Next.js` `TypeScript` `EN/AR`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **[agentic-orchestration-os](https://github.com/HXSmc/agentic-orchestration-os)**
 
@@ -56,10 +56,10 @@ GLM hub-spoke orchestrator for Claude Code: a real Claude session as hub, headle
 
 `Shell` `GLM` `Claude Code`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[claude-audit-workflow](https://github.com/HXSmc/claude-audit-workflow)**
 
@@ -67,8 +67,8 @@ GLM hub-spoke orchestrator for Claude Code: a real Claude session as hub, headle
 
 `Claude Code` `Shell`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **Also in progress (private)**
 
@@ -76,8 +76,8 @@ An Arabic-bilingual writing and proofreading Chrome extension, plus B2B tooling 
 
 `TypeScript` `Arabic` `Chrome`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ## Stack
@@ -114,8 +114,7 @@ Also touched: Swift · C# / Unity · Java
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HXSmc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HXSmc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=HXSmc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
