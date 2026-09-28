@@ -111,12 +111,6 @@ An Arabic-bilingual writing and proofreading Chrome extension, plus B2B tooling 
 
 Also touched: Swift · C# / Unity · Java
 
-## Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HXSmc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ---
 
 <p align="center">Solo-shipped and in production: <a href="https://notekit.net">NoteKit</a> · <a href="https://nuqra.org">Nuqra</a></p>
